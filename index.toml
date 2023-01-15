@@ -4,28 +4,3 @@ hash-format = "sha256"
 file = "mods/fabric-api.pw.toml"
 hash = "2264f673922651deb35c00b0020920baa49541d0d622d19f4562e287e4b3d025"
 metafile = true
-
-[[files]]
-file = "mods/multiworld-mod.pw.toml"
-hash = "24b4b4b251d11c54bf325affd216adf6ff19cbe753f6eb3c4b36da9dccc11e3b"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "c70f7d34c3653cc2dd737bd4603438f5a15048269f1029e3c35c0ac7db012df6"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "a24471aa1e5442c00d2d411ad3701745f24edaae7b447c1790108db4a0a6e8c5"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "205edb8d600dddcdd2a01da57c5973ce01b528244cff463a876fd365b5d54788"
-metafile = true
