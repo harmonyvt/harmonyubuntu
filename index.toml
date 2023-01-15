@@ -1,0 +1,75 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".devcontainer/devcontainer.json"
+hash = "1159deb75ae254352bd39b86ad6012edb9f963fad6cf44456629d18f0c565d9b"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b7606dafc1939560ab63f3fadeb90e4ebbac1c25e57fb946e66bef05bee92460"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "c19d5ad0b3b30fc4d9f1a712b0686f267bbd08b825e5439817b585195f7d0797"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2264f673922651deb35c00b0020920baa49541d0d622d19f4562e287e4b3d025"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "154d3360a709e4abc301a2473958fd1a977cc63e044536bb06831912a9f40d21"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "f9a0ea931b13f27a841434ddfd3c055a04d96b1d6301350a65bcb83b75e53451"
+metafile = true
+
+[[files]]
+file = "mods/multiworld-mod.pw.toml"
+hash = "24b4b4b251d11c54bf325affd216adf6ff19cbe753f6eb3c4b36da9dccc11e3b"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "f1537627c2d758d9246b3e37777b9da481cde948921740326c3caf4ba78524e3"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "c70f7d34c3653cc2dd737bd4603438f5a15048269f1029e3c35c0ac7db012df6"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rich-presence.pw.toml"
+hash = "a24471aa1e5442c00d2d411ad3701745f24edaae7b447c1790108db4a0a6e8c5"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "205edb8d600dddcdd2a01da57c5973ce01b528244cff463a876fd365b5d54788"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "f32a81d66cdf147fb1a0a487f067bff74f8e101258cc551eaa232ef27ba5eea9"
+metafile = true
