@@ -11,11 +11,6 @@ hash = "24b4b4b251d11c54bf325affd216adf6ff19cbe753f6eb3c4b36da9dccc11e3b"
 metafile = true
 
 [[files]]
-file = "mods/observable.pw.toml"
-hash = "f1537627c2d758d9246b3e37777b9da481cde948921740326c3caf4ba78524e3"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "c70f7d34c3653cc2dd737bd4603438f5a15048269f1029e3c35c0ac7db012df6"
 metafile = true
