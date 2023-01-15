@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".devcontainer/devcontainer.json"
-hash = "1159deb75ae254352bd39b86ad6012edb9f963fad6cf44456629d18f0c565d9b"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7606dafc1939560ab63f3fadeb90e4ebbac1c25e57fb946e66bef05bee92460"
 metafile = true
