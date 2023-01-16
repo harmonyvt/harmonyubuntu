@@ -554,11 +554,6 @@ hash = "c5d0af364faec673113d95fa2feeec4594603e5ef66b1f12a61cdfeadc471c70"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation-fabric.pw.toml"
-hash = "3a7e5ff0b5cf884621ec3bbba3f9a50c5a9c5ecdcfd8d135f62fbc3a3ec9f761"
-metafile = true
-
-[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "4ae65ae9f012e7b1d27fa2934185dfbd35f6009d850c5d3662d3c10cc9a64be4"
 metafile = true
