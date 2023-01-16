@@ -454,11 +454,6 @@ hash = "cf5cc4086323ffdc7e1c25e38c7f7cd28687d94c5b71b9d73ee18b17715798c1"
 metafile = true
 
 [[files]]
-file = "mods/better-bad-omen.pw.toml"
-hash = "f57186e59bc0f3a6fe1f799bb16cdd94d379f4abbf16bc7455c461402c74d99e"
-metafile = true
-
-[[files]]
 file = "mods/better-lily-pads.pw.toml"
 hash = "9f97fb4cdf8ff7af2b2b2f53ff2ce55ea854dcc7b8f9281b9c79c75da15a6b9d"
 metafile = true
@@ -466,11 +461,6 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "dfc995603786d283e6423fcee1c7191e4f877284e4c50d1d681901a5498bca01"
-metafile = true
-
-[[files]]
-file = "mods/better-village-fabric.pw.toml"
-hash = "24d25573275853bdcfd115fef4b2accbf1c76d7070a7b6d38e6524fb417667d5"
 metafile = true
 
 [[files]]
@@ -531,16 +521,6 @@ metafile = true
 [[files]]
 file = "mods/companion-fabric.pw.toml"
 hash = "5716ebb5933006fc19eaec7ad465bdba9df2b96f19df71c1ec83bdb8927ea227"
-metafile = true
-
-[[files]]
-file = "mods/convenient-decor.pw.toml"
-hash = "37a760a95034eec2cc097f52144f2b2252465688af6977dd3bb519ed24306e44"
-metafile = true
-
-[[files]]
-file = "mods/convenient-name-tags.pw.toml"
-hash = "d578fb367eba89773b378af63f8b4372f19a06f4c5e3ba3c852c29ce0cd9802a"
 metafile = true
 
 [[files]]
@@ -831,11 +811,6 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "977422da999f8a97bdde4bc91f2c62c901f1aab7b7e76c388bb9ad01e6a45db2"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "3842b145ba1cc33a207a846e306b5e7ee46b78f7687b1bf3ab1a6968d90477af"
 metafile = true
 
 [[files]]
