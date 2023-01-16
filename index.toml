@@ -251,6 +251,11 @@ hash = "e791366a56077e7cd378286da4eac63b44aae57ca889039d6ffd66d7081693fe"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "07266757db9231ff28fcc6081762bf0d755e2e32370e2ebbfad9fd110999be1f"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "9351ed63f58b8c97ec5c2af854b708dcf2b2848ae97cc6df32bc0b853a026419"
 metafile = true
@@ -308,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "84f19ab0b1bd86bb9b9ee5c567fca05ba371d875f3aaee03375ad67020adcbb4"
-metafile = true
-
-[[files]]
-file = "mods/multiworld-mod.pw.toml"
-hash = "dae56eedca5cbbfefe1e1b1e40622ac4a8fd82e01b6da748722d88fd6b05218c"
 metafile = true
 
 [[files]]
