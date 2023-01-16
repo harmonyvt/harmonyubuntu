@@ -1,0 +1,13 @@
+name = "Pretty Ladders (Fabric)"
+filename = "PrettyLadders-1.0.3+MC1.19.2(Fabric).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14291b2d4367235006c59563f588740e9d9218c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4257368
+project-id = 737125

@@ -1,0 +1,13 @@
+name = "Carpet Trapdoors [Fabric]"
+filename = "CarpetTrapdoors [Fabric] 1.19.0-2 - 1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fe76f0f08431b057e1ed31dccf791001e61eec4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4160886
+project-id = 728929

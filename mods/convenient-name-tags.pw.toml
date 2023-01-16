@@ -1,0 +1,13 @@
+name = "Convenient Name Tags"
+filename = "convenientnametags-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5408c10e98736d8b2fa8b56508f2aa66e349ae6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4035470
+project-id = 662763

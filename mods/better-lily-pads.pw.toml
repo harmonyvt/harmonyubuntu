@@ -1,0 +1,13 @@
+name = "Better Lily Pads"
+filename = "betterlily.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9428c8fb1442d9819314abbc336a1d345d1213c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3989666
+project-id = 626812

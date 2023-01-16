@@ -1,0 +1,13 @@
+name = "Villager Hats Mod"
+filename = "villager-hats-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "948dd2a33b40ab81ebe183d4fcdd8e361eb87522"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3824094
+project-id = 501456
