@@ -409,6 +409,10 @@ file = "config/yungsextras-fabric-1_19.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "data/fabricDefaultResourcePacks.dat"
+hash = "6c4932523a4331f8b18a025ff78d4fae7ed80ce1a39310255a12effb8bc58641"
+
+[[files]]
 file = "mods/additional-structures-fabric.pw.toml"
 hash = "e0120d8134a99792619357b07f3677167129410994bc47d640c36cd65d5429f7"
 metafile = true
@@ -912,3 +916,19 @@ metafile = true
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "b2b5c11320601e1bccb196404515ad8f6b35ccb6db508db785806d483b71085b"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "d6dcd04204f3e3ae565b63554eddf1cbc923c597203c7a4a207e935b2ba09ebb"
+
+[[files]]
+file = "pfmUpdateInfo.json"
+hash = "45924ea60a5c6079ce0a4d2c6ec4081fb7d31ad1923887bb9491ffebe15cafe3"
+
+[[files]]
+file = "realms_persistence.json"
+hash = "9f46be5adf8003f3c2052eb17e6886b6ec3a957a5b8af6958fdc0e0f660d3e0b"
+
+[[files]]
+file = "usercache.json"
+hash = "54470442aadd3ef2ac025ce34e6000ef4f75a3d2e57e654bc80fc9315848d982"
