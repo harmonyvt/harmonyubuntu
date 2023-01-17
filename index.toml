@@ -136,11 +136,6 @@ hash = "0e29b8d61e4df519299ce2c4a6df01f9c306197e06a63ce1a7a3e14d02f306ba"
 metafile = true
 
 [[files]]
-file = "mods/decorative-blocks.pw.toml"
-hash = "a85f7232523cf84ae122be652760d27464cd2e9f70cd152f8c56aea8efa51f10"
-metafile = true
-
-[[files]]
 file = "mods/dragonloot.pw.toml"
 hash = "e97827808906747fe444bfae601f3f5804368f66cfd5287599aed7aac63798d8"
 metafile = true
@@ -181,11 +176,6 @@ hash = "3bfa7b1231d2df0ceaafa45d21af2441c18eafe83bcca03ebfddc655e0594d6e"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "f37e62c56d8b5b497e41d89398d1e317a887a33d9e186d7957e4af2eabd1150a"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "877a3da88fd9e4db35f6de5c9ec12254ee78f19ea412346ee97d8d8d8cc79c61"
 metafile = true
@@ -223,11 +213,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "1c666131390ae680b1ec6b2ba88b78df3b7e51033a10ffad57bcbbd22a383964"
-metafile = true
-
-[[files]]
-file = "mods/immersive-paintings.pw.toml"
-hash = "795e8a29ace5222020c32e40f1b6c26ee313a33b060a841cc05a1b979d179323"
 metafile = true
 
 [[files]]
