@@ -156,11 +156,6 @@ hash = "0e45d764530b0cbe667082945d7b57ca3dafca251246f07ff26631d804b96563"
 metafile = true
 
 [[files]]
-file = "mods/expanded-delight.pw.toml"
-hash = "8c568beafafe3a471a3911f3132b3365440f55c1d319b63e793dc450ea6f15e4"
-metafile = true
-
-[[files]]
 file = "mods/explorify.pw.toml"
 hash = "441f9df3adb8aef7ca93c679ca23cbba70d46d539d883dd5258d20328d6a0a79"
 metafile = true
