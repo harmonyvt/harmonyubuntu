@@ -1,0 +1,13 @@
+name = "BanHammer!"
+filename = "banhammer-0.5.6+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9c10bb0b9f7116d86e2627149933065e88655a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4344819
+project-id = 460682

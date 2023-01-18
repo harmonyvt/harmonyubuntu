@@ -1,0 +1,13 @@
+name = "Variant Lanterns [Fabric/Quilt]"
+filename = "variant_lanterns-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b7920c87ccd212909236a3e217c222a2e171cb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4131731
+project-id = 670696

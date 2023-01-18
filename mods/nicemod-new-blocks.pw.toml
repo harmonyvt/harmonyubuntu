@@ -1,0 +1,13 @@
+name = "NiceMod - New blocks"
+filename = "nicemod-1.2 - 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad6be953deb16e0f75b72a97e617c0a50c9f6051"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4048377
+project-id = 557756

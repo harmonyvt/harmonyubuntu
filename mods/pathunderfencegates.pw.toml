@@ -1,0 +1,13 @@
+name = "Path under fence gates (Fabric/Quilt)"
+filename = "pathunderfencegates-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b8976dbe929a744bfdb2baba5382692474a83df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3983611
+project-id = 638805

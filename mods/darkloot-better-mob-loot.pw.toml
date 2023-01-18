@@ -1,0 +1,13 @@
+name = "DarkLoot - Better Mob Loot"
+filename = "darkloot-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be64041e30a092f37cf6a7105bfe689449c3df51"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4343874
+project-id = 677987
