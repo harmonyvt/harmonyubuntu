@@ -56,11 +56,6 @@ hash = "7a33fd7d7cfc897c7199af83b17b32c33ee383313ebf231322b6434d709e42a7"
 metafile = true
 
 [[files]]
-file = "mods/better-bad-omen.pw.toml"
-hash = "f57186e59bc0f3a6fe1f799bb16cdd94d379f4abbf16bc7455c461402c74d99e"
-metafile = true
-
-[[files]]
 file = "mods/better-lily-pads.pw.toml"
 hash = "9f97fb4cdf8ff7af2b2b2f53ff2ce55ea854dcc7b8f9281b9c79c75da15a6b9d"
 metafile = true
@@ -158,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/companion-fabric.pw.toml"
 hash = "d52aff587b7683e834184dc82f2d1ec7fd36303e744251f6410bf7b47ccca13d"
-metafile = true
-
-[[files]]
-file = "mods/convenient-decor.pw.toml"
-hash = "37a760a95034eec2cc097f52144f2b2252465688af6977dd3bb519ed24306e44"
 metafile = true
 
 [[files]]
@@ -283,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ed8494a275518cf4f69977ecd7fb4178a7333dc70f944586582cc14964d42286"
-metafile = true
-
-[[files]]
-file = "mods/giacomos-bookshelf.pw.toml"
-hash = "ed9729930ac119a9765aea0222f9aef489f7c0cbe48936525a049b129b8e3f01"
 metafile = true
 
 [[files]]
@@ -571,11 +556,6 @@ hash = "9989bb9799e6bcf950138a95aec15f1ff8bd5aa2ebc59124bac8ee1b491f42b2"
 metafile = true
 
 [[files]]
-file = "mods/sentimentality.pw.toml"
-hash = "7ba33cf53917d0b72d016ada9443318717c7b2341467e14b892b88c071510199"
-metafile = true
-
-[[files]]
 file = "mods/simple-shelves.pw.toml"
 hash = "74153b3a8a4d2997d11ce602493de074368fea89894724134226166b152851f0"
 metafile = true
@@ -596,11 +576,6 @@ hash = "dd92323df490963f420230b9bbe7537742ca6a480dc2932249c0bf8a7e2c8698"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "3842b145ba1cc33a207a846e306b5e7ee46b78f7687b1bf3ab1a6968d90477af"
-metafile = true
-
-[[files]]
 file = "mods/skinned-lanterns-fabric.pw.toml"
 hash = "b9957bb1612f527790ee252bd540655943a1a7d7ea2ab0f55652bc2e9d3c1b0d"
 metafile = true
@@ -608,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/sky-villages-fabric.pw.toml"
 hash = "aa017222e82746915b3314abd01bcffd4561192b0ef669fa8d559b40288a36bb"
-metafile = true
-
-[[files]]
-file = "mods/skylib.pw.toml"
-hash = "5dbef9aefc7a1ca8c57df6e9a9eaf9eb85df76ac51d2fc98427e677ea08fb61e"
 metafile = true
 
 [[files]]
