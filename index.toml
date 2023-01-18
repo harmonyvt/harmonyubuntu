@@ -166,6 +166,11 @@ hash = "14ea0e315e96d8e6adafb9de1af718f1868296ec13ae8881e6e301cb2dea9c85"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "bea3f779d2e95cf593b9efd67d7ee71886bfddc5bc8ac5585245e0f09055b5cb"
+metafile = true
+
+[[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "538cab799842b6773d39b4a609c6c494f55fee0cd73376375a32d4d39157c24f"
 metafile = true
@@ -478,6 +483,16 @@ metafile = true
 [[files]]
 file = "mods/nicemod-new-blocks.pw.toml"
 hash = "0ae920e7108f9710718c4df4cd2e461182ed8eb6866e9dbbd2e7d673db79a828"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "8a0c36740bb23fa90e22fb69a5d36a76dfdd1cac6a28bb7207b3675fcf88781a"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "d7a234cdfd0c5016ce371b4a311df654efd4a603b842f546e0bc794dd7bb445c"
 metafile = true
 
 [[files]]
