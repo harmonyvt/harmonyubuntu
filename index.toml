@@ -576,11 +576,6 @@ hash = "dd92323df490963f420230b9bbe7537742ca6a480dc2932249c0bf8a7e2c8698"
 metafile = true
 
 [[files]]
-file = "mods/skinned-lanterns-fabric.pw.toml"
-hash = "b9957bb1612f527790ee252bd540655943a1a7d7ea2ab0f55652bc2e9d3c1b0d"
-metafile = true
-
-[[files]]
 file = "mods/sky-villages-fabric.pw.toml"
 hash = "aa017222e82746915b3314abd01bcffd4561192b0ef669fa8d559b40288a36bb"
 metafile = true
