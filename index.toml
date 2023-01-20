@@ -121,6 +121,11 @@ hash = "e1295b989430da8bb3b6e2fb85dd7799be0f60bdda2479feda3e444633842e6f"
 metafile = true
 
 [[files]]
+file = "mods/cats-expanded.pw.toml"
+hash = "5ad8894edb5c7735e54230137f92c8edc607367137f7f58ce1c56fbd66a6bae5"
+metafile = true
+
+[[files]]
 file = "mods/cha-s.pw.toml"
 hash = "c44acf6ebe150d05fc01f1418f163da0c0c2081a1c61eee466e0c6c4f42ff824"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2bdb024de6f6be05683b1290bac404272be0c059442c63fcb2a5ef0252285586"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
 metafile = true
 
 [[files]]
@@ -273,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "877a3da88fd9e4db35f6de5c9ec12254ee78f19ea412346ee97d8d8d8cc79c61"
+metafile = true
+
+[[files]]
+file = "mods/furnace-recycle.pw.toml"
+hash = "d5e5b0bcfeea369571092cd258cc9b4123dd6d9a5165f36162dc9b938d0faa96"
 metafile = true
 
 [[files]]
@@ -413,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/magic-combat-wands.pw.toml"
 hash = "769884ccd9521091f8f26977df4234c6f7f2593414e875b4278d1ed0b4b9c9e6"
+metafile = true
+
+[[files]]
+file = "mods/mariums-soulslike-weaponry.pw.toml"
+hash = "0585e16a2962cffb2d629590d1d6c3655c030af41aa2213409879fc7dad8c3d6"
 metafile = true
 
 [[files]]
@@ -678,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "cecbd496d5db5d055cac7f09eab74d180cd766b36440e0ad60e2aa3d6824325e"
+metafile = true
+
+[[files]]
+file = "mods/ultris-boss-expansion.pw.toml"
+hash = "30e9a6498fe7c535704be9de22fcb7361dcd2de333bc30412f0147f2e7cc50c1"
 metafile = true
 
 [[files]]
