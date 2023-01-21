@@ -741,11 +741,6 @@ hash = "2909f784a945728d54fc296d21445b2879acac932c84f9e61667609f43b07e8b"
 metafile = true
 
 [[files]]
-file = "mods/ydms-mobhealthbar-mod.pw.toml"
-hash = "6e52dbee1bc1fd7acfad808076b452e4d0991a2df7372f4aa3c878e097581727"
-metafile = true
-
-[[files]]
 file = "mods/ydms-weapon-master.pw.toml"
 hash = "f8a58a41098ff0c1d02f0270167b258d14a1995aef53f172f169d3bbaf54e906"
 metafile = true
