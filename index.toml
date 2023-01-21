@@ -131,11 +131,6 @@ hash = "c44acf6ebe150d05fc01f1418f163da0c0c2081a1c61eee466e0c6c4f42ff824"
 metafile = true
 
 [[files]]
-file = "mods/charm.pw.toml"
-hash = "3bec248d77a44f165f5ca46ee297263c56d91de861444ef00e0d0f432156a8d8"
-metafile = true
-
-[[files]]
 file = "mods/chimes.pw.toml"
 hash = "4500714bda43a1d44d90363aeeab0b1b94fd3faae0476bc7c6b94981f290828e"
 metafile = true
