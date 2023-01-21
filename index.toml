@@ -736,18 +736,8 @@ hash = "1d11ad4f936cab00905279d28f6cbf03cccfa99104ac968dae30e94f08123604"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "2909f784a945728d54fc296d21445b2879acac932c84f9e61667609f43b07e8b"
-metafile = true
-
-[[files]]
 file = "mods/ydms-weapon-master.pw.toml"
 hash = "f8a58a41098ff0c1d02f0270167b258d14a1995aef53f172f169d3bbaf54e906"
-metafile = true
-
-[[files]]
-file = "mods/youre-in-grave-danger.pw.toml"
-hash = "4aad47236c42247992343d0b810d6575fac9d32109818a7962e8ad6b4cb9a268"
 metafile = true
 
 [[files]]

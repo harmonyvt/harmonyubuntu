@@ -1,11 +1,11 @@
 name = "Harmonyubuntu"
-version = "1.2.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "216e9bc57079fc7f48d568f4bf1b092cc57b9937cb1d733b8062d89794d37681"
+hash = "e71c41ad85eed28694edd2801b80acb64bdcca48168b1f2ddfc5e75775a53687"
 
 [versions]
 fabric = "0.14.12"
