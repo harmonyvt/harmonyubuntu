@@ -701,11 +701,6 @@ hash = "cecbd496d5db5d055cac7f09eab74d180cd766b36440e0ad60e2aa3d6824325e"
 metafile = true
 
 [[files]]
-file = "mods/ultris-boss-expansion.pw.toml"
-hash = "30e9a6498fe7c535704be9de22fcb7361dcd2de333bc30412f0147f2e7cc50c1"
-metafile = true
-
-[[files]]
 file = "mods/variant-lanterns-fabric.pw.toml"
 hash = "4397930b6e60a45376e4fb8e2882d089e3b2ec7d1a0016e169afdf329ae3ba58"
 metafile = true
