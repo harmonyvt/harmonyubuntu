@@ -276,6 +276,11 @@ hash = "e6f923a462483ca6233b7860d88952594417afa578196d690b7112339f469a6c"
 metafile = true
 
 [[files]]
+file = "mods/flan.pw.toml"
+hash = "c3b56911a8c3abf330be9a5a31c9c23159ca68124099465d8d094db97b898b17"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "877a3da88fd9e4db35f6de5c9ec12254ee78f19ea412346ee97d8d8d8cc79c61"
 metafile = true
